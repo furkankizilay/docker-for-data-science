@@ -1,1 +1,1 @@
-[View the PDF Guide](./dockerss.pdfdockerss.pdf)
+[View the PDF Guide](./dockerss.pdf)
